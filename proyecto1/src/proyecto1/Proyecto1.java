@@ -18,6 +18,7 @@ public class Proyecto1 {
         // TODO code application logic here
         
     }
+    
     public void mensaje(){
         System.out.println("Hola mundo");
     }
