@@ -77,5 +77,8 @@ public class Calculo {
         return a;
     }
     
+    public void mensaje(){
+       System.out.println("Añadiendo para GitHub");
+    }
     
 }
