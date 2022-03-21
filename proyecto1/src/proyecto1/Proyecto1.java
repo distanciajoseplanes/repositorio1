@@ -8,6 +8,7 @@ package proyecto1;
 /**
  *
  * @author Paqui Elena
+ * @version 1.0
  */
 public class Proyecto1 {
 
@@ -16,11 +17,13 @@ public class Proyecto1 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        mensaje();
         
     }
     
-    public void mensaje(){
+    public static void mensaje(){
         System.out.println("Hola mundo");
+        System.out.println("Añadida la documentación");
     }
     
 }
